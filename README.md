@@ -23,15 +23,15 @@ This is just a generic despawn all props button. The only purpose of this is for
 
 <b>(NOTICE: The non-Fusion despawning method can sometimes despawn things that should NEVER be despawned. This mostly happens on base game levels, so if you are on a modded level, you should most likely be fine.</b>
 
-<img src="https://files.catbox.moe/brpxck.gif" alt="" width="854" height="480">
+<img src="https://github.com/minecartman/SceneJanitor/blob/main/GIFs/DespawnGif.gif" alt="" width="854" height="480">
 
 #
 
 ### Clear & Restore Old Props
 This button will despawn all props in the level, but will also respawn all the props that spawn in when loading the level!
-Basically the same as reloading the level but in a second.
+Basically the same as reloading the level but as quick as a button press.
 
-<img src="https://files.catbox.moe/wz4hi5.gif" alt="" width="854" height="480">
+<img src="https://github.com/minecartman/SceneJanitor/blob/main/GIFs/RestoreGif.gif" alt="" width="854" height="480">
 
 #
 
@@ -40,7 +40,7 @@ Like the despawn all props button, this doesn't have as many uses, as it just sp
 
 useful for like two scenarios but oh well
 
-<img src="https://files.catbox.moe/eud0tn.gif" alt="" width="854" height="480">
+<img src="https://github.com/minecartman/SceneJanitor/blob/main/GIFs/SpawnGif.gif" alt="" width="854" height="480">
 
 #
 
@@ -48,9 +48,9 @@ useful for like two scenarios but oh well
 ## NPC Cleanup
 This feature allows you to despawn all active NPCs, or despawn a specific type of (base game) NPC.
 
-<img src="https://files.catbox.moe/yjgika.gif" alt="" width="854" height="480">
+<img src="https://github.com/minecartman/SceneJanitor/blob/main/GIFs/NPCDespawnGif.gif" alt="" width="854" height="480">
 
-<img src="https://files.catbox.moe/a2lf2j.gif" alt="" width="854" height="480">
+<img src="https://github.com/minecartman/SceneJanitor/blob/main/GIFs/IndividualNPCDespawnGif.gif" alt="" width="854" height="480">
 
 #
 
