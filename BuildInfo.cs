@@ -1,12 +1,12 @@
-﻿namespace bonelab_template
+﻿namespace scene_janitor
 {
     internal partial class Main
     {
-        internal const string Name = "Mod Name";
-        internal const string Description = "Mod Description";
-        internal const string Author = "Mod Author";
-        internal const string Company = "Mod Company";
-        internal const string Version = "0.0.1";
-        internal const string DownloadLink = "Link";
+        internal const string Name = "Scene Janitor";
+        internal const string Description = "it clean the scene";
+        internal const string Author = "minecart";
+        internal const string Company = "minecart";
+        internal const string Version = "1.0.0";
+        internal const string DownloadLink = "https://github.com/minecartman/SceneJanitor";
     }
 }
